@@ -1,0 +1,35 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	font-family: Georgia;
+	background: url(file:///C:/Users/ASUS/Desktop/html%20projects/Startup%20Project/back3.JPG) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+
+	/*font-family: 'Balsamiq Sans', cursive;*/
+}
+h1{
+	font-size: 4em;
+	color:#FF3813;
+	text-align: center;
+	/*border-bottom: 3px solid #DA0000;*/
+}
+.buffer{
+	height: 50px;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 100px;
+	text-transform: uppercase;
+}
+.btn-primary:hover
+{
+	background-color: #FF3813;
+	border-color: #FF3813;
+	border-width: 4px; 
+}
+.btn-xl{   /*this class is used for the size purposes only and styling the sizes only...But for other purposes of styling use the original class*/
+	padding: 1rem 1rem;
+}
