@@ -10,6 +10,10 @@ body,html{
 
 	/*font-family: 'Balsamiq Sans', cursive;*/
 }
+.animate_animated.animate_zoomin{
+ 
+	animation-duration: 5s;
+}
 h1{
 	font-size: 4em;
 	color:#FF3813;
